@@ -1,4 +1,3 @@
-wifi-scan.ino
 #include <WiFi.h>
 #include <PubSubClient.h>
 
